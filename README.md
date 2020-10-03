@@ -33,7 +33,7 @@ cd` to Delani-Studio folder.
  Email      The users email. eg usermail@gmail.com   
 Message     The message from the user.   |
 # Bugs.
-NO BUGS
+
 # License
 <<<<<<< HEAD
 MIT LICENSE 
